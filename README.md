@@ -8,3 +8,8 @@ Controls (Using the key above the Q,W,E,R,..., not the numpad)
     + after the animation is complete, press 2
   5: Correct answer animation
     + after the animation is complete, press 1 for light down, or 2 to reset
+
+
+  Credits
+  ZoranixOG: Logo Template
+  Microids Game: Olga Background
