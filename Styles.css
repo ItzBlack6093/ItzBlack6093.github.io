@@ -1,0 +1,179 @@
+.bg {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position:absolute;
+	margin:auto;
+}
+
+.div {
+    position:absolute;
+	margin:auto;
+}
+
+.frame {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+	position:absolute;
+	margin:auto;
+}
+
+.main {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+	position:fixed;
+	margin:auto;
+	overflow:hidden;
+}
+
+.tier1 {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+	position:fixed;
+	margin:auto;
+	overflow:hidden;
+}
+
+.tier2 {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+	position:fixed;
+	margin:auto;
+	overflow:hidden;
+}
+
+.tier3 {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+	position:fixed;
+	margin:auto;
+	overflow:hidden;
+}
+
+.tier4 {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+	position:fixed;
+	margin:auto;
+	overflow:hidden;
+}
+
+.winner {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+	position:fixed;
+	margin:auto;
+	overflow:hidden;
+}
+
+.wrong {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+	position:fixed;
+	margin:auto;
+	overflow:hidden;
+}
+
+.walk    {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+	position:fixed;
+	margin:auto;
+	overflow:hidden;
+}
+
+.ammountDiv    {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+	position:fixed;
+	margin:auto;
+	overflow:hidden;
+}
+.ammountImg    {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+	position:fixed;
+	margin:auto;
+	overflow:hidden;
+}
+
+body{
+	overflow:hidden;
+	width:1920px;
+	height:1080px;
+	background-color:black;
+}
+
+@font-face {
+	font-family: CopperplateBold;
+	src: url('../Animate/CopperplateBold.eot');
+	src: url('../Animate/CopperplateBold.eot?#iefix') format('embedded-opentype'),
+	url('../Animate/CopperplateBold.woff') format('woff'),
+	url('../Animate/CopperplateBold.svg#IcoMoon') format('svg'),
+	url('../Animate/CopperplateBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.ammountDiv{
+	background:url(../Images/Logo/logo_walk_strap.png);
+	position:fixed;
+	margin:auto;
+		width:1920px;
+		height:80px;
+		left:0px;
+		right:0px;
+		top:50px;
+		color:white;
+		font-family:CopperplateBold;
+		text-align:center;
+		font-size:60pt;
+		text-shadow:black 4px 4px 4px, black -1px -1px 0px, black 0px -1px 0px, black 1px -1px 0px, black -1px 0px 0px, black 1px 0px 0px, black -1px 1px 0px, black 0px 1px 0px, black 1px 1px 0px;
+	}
