@@ -1,0 +1,191 @@
+.div {
+position: absolute;
+margin: auto;
+}
+
+.frame {
+    width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+
+}
+
+.video {
+    width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+
+}
+
+.bg {
+    width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+}
+
+.tier1 {
+    width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+
+}
+
+.tier2 {
+    width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+
+}
+
+.tier3 {
+    width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+
+}
+
+.tier4 {
+    width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+
+}
+
+.winner {
+    width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+
+}
+
+.wrong {
+    width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+
+}
+
+.klaxon {
+    width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+
+}
+
+.walk {
+    width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+
+}
+
+.walkStrap {
+    width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+
+}
+
+#prize {
+	width:1920px;
+	height:80px;
+	left:-560px;
+	right:0px;
+	top:350px;
+	color:white;
+	font-family:CopperplateBold;
+	text-align:center;
+	font-size:60pt;
+	position: absolute;
+	text-shadow:black 4px 4px 4px, black -1px -1px 0px, black 0px -1px 0px, black 1px -1px 0px, black -1px 0px 0px, black 1px 0px 0px, black -1px 1px 0px, black 0px 1px 0px, black 1px 1px 0px;
+}
+
+.logo {
+    width:800px;
+	height:800px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+    position: absolute;
+margin: auto;
+}
+
+@font-face {
+	font-family: CopperplateBold;
+	src: url('../Animate/CopperplateBold.eot');
+	src: url('../Animate/CopperplateBold.eot?#iefix') format('embedded-opentype'),
+	url('../Animate/CopperplateBold.woff') format('woff'),
+	url('../Animate/CopperplateBold.svg#IcoMoon') format('svg'),
+	url('../Animate/CopperplateBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body{
+	overflow:hidden;
+	width:1920px;
+	height:1080px;
+	background-color:black;
+}
+
